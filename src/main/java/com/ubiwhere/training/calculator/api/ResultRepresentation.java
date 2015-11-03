@@ -1,10 +1,10 @@
 package com.ubiwhere.training.calculator.api;
 
-public class OperationResult {
+public class ResultRepresentation {
 
     private final Integer result;
 
-    public OperationResult(Integer result) {
+    public ResultRepresentation(Integer result) {
         this.result = result;
     }
 
